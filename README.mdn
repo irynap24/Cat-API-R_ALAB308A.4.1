@@ -9,5 +9,5 @@ Carousel: Display images in a responsive Bootstrap carousel with navigation cont
 Favourites: Click the heart icon on an image to toggle its status as a favourite.
 Clicking on the heart(to favorite) will automatically take you to the favorites list to show the image you favorited.
 If you would like to select another image from the same breed, you have to refresh the page.
-The carousel is limited to show only 3 favorited images, so you have to unfavorite some from the list.
+The carousel is limited to show only 3 favorited images, so you have to unfavorite some from the list. I cleared the favorites list and only have one image in there.
 I added one favorited image in the favorites category, feel free to add 2 more favorites so you can verify it works.
