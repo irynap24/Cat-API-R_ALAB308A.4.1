@@ -1,4 +1,4 @@
-// please refresh the preview because it glitches really badly and makes it look like the code is not working
+//codesandbox-- please refresh the preview because it glitches really badly and makes it look like the code is not working
 
 This project is a web application that allows users to view and favourite images of different cat breeds. 
 It uses a combination of HTML, CSS, JavaScript, and Axios for API interactions, with Bootstrap for styling and a carousel component.
